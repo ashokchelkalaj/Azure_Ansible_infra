@@ -8,8 +8,7 @@
     "adminPasswordOrKey": {
       "value": "Ansible@12345"
     },
-    "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
-    }
+    
+
   }
 }
